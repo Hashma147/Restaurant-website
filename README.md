@@ -1,4 +1,3 @@
-# Restaurant-website
 
 # 🍽️ Restaurant Website
 
@@ -21,7 +20,7 @@ The website is built using modern web technologies with a focus on clean design,
 
 ## 🚀 Demo
 
-[Live Demo](https://http://127.0.0.1:5500/home.html) 
+[Live Demo](http://127.0.0.1:5500/home.html) 
 
 ## 🖼️ Screenshots
 ![restaurant home](https://github.com/user-attachments/assets/470c7ec5-0e42-4790-adda-6475e1424b65)
